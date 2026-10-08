@@ -24,4 +24,4 @@
 - **Stack:** React Native (Expo) client · Node.js backend · LLM generation · auto-renewing subscriptions (weekly, monthly, yearly).
 
 ---
-<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksahkose90@gmail.com</sub>
+<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksah.kose1@hotmail.com</sub>
